@@ -15,8 +15,9 @@ To run this project, you will need the following:
 
 1. Clone the repository to your local machine.
 2. Open the project in Visual Studio.
-3. Build the solution.
-4. Run the application.
+3. Create and change API Keys for Open AI API and Google Text-to-Speech API
+4. Build the solution.
+5. Run the application.
 
 ## Usage
 
